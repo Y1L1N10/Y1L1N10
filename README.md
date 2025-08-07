@@ -1,9 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yilin! 👋
+欢迎来到我的 GitHub 主页！✨
 
-<!--
-**Y1L1N10/Y1L1N10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+- 🏷️ Aspiring software engineer…
+- 📍 shenzhen,GD
 
-Here are some ideas to get you started:
+## GitHub 统计
+![Yilin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilin&show_icons=true&theme=radical)
+
+## 联系我
+- 🔗 [LinkedIn](https://...)
+- 🔗 [个人网站](https://...)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
