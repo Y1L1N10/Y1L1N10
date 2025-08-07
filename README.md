@@ -6,7 +6,7 @@
 - 📍 shenzhen,GD
 
 ## GitHub 统计
-![Yilin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yilin&show_icons=true&theme=radical)
+![Yilin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=radical)
 
 ## 联系我
 - 🔗 [LinkedIn](https://...)
