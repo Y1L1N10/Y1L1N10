@@ -10,7 +10,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
----
 ## 📦 Teck stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
