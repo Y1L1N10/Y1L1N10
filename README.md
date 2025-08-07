@@ -10,17 +10,12 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
-
-## Teck stack
+---
+## 📦 Teck stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,vim,vscode,idea,pycharm,postman,powershell)](https://skillicons.dev)
 
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 <div style="display: flex; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
@@ -42,6 +37,23 @@
 这是一条注释，不会在渲染后显示
  -->
 <!-- 
+### 🖥️ Languages
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,c)](https://skillicons.dev)
+
+### ⚛️ Frontend Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,vue)](https://skillicons.dev)
+
+### 🚀 Server
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+### 🔌 Middleware
+[![My Skills](https://skillicons.dev/icons?i=express,koa)](https://skillicons.dev)
+
+### 🏗️ Architecture & Orchestration
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+---
+
 云服务：
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
