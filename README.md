@@ -26,24 +26,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
 ## 📊 My GitHub 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark)
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 📊 My GitHub 
-
 <div align="center">
   <img width="880" src="https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20-%20Last%2031%20Days" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" />
+  <img height="180" width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </div>
 
 
