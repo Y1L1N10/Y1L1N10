@@ -37,7 +37,29 @@
 </div>
 
 
+<!-- 生成贪吃蛇动画 -->
+![](https://raw.githubusercontent.com/Y1L1N10/Y1L1N10/output/github-contribution-grid-snake.svg)
 
+<!-- 暗色主题 -->
+![](https://raw.githubusercontent.com/Y1L1N10/Y1L1N10/output/github-contribution-grid-snake-dark.svg)
+
+<!-- 主题：github-compact 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=github-compact)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=dracula)
+
+主题：gruvbox
+![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=gruvbox)
+
+ 主题：rogue 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=rogue)
+
+ 主题：xcode 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=xcode)
+
+ 主题：coral 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=coral)
+-->
 <!-- 
 语言图标：
 [![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)</br>
