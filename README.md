@@ -1,4 +1,4 @@
-# Hi, I'm Yilin! 👋 ✨
+# 👋 ✨ Hi, I'm Yilin! ![Profile Views](https://komarev.com/ghpvc/?username=Y1L1N10&color=blue)
 - 🏷️ All-do-Engineer   ~~Full-Stack Engineer~~
 - 📍 Shenzhen,GD
 - 🤖 Coding with ai
@@ -10,9 +10,9 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
-## 📦 Tech stack
+## 🔧 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,vim,vscode,idea,pycharm,postman,powershell)](https://skillicons.dev)
 
 
@@ -30,6 +30,20 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 📊 My GitHub 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark)
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+
+
+
+
+
 <!-- 
 ## GitHub 统计
 ![Yilin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=radical)‘’‘
