@@ -15,7 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,vim,vscode,idea,pycharm,postman,powershell)](https://skillicons.dev)
 
-
 <div style="display: flex; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -31,18 +30,13 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 My GitHub 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark)
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 📊 My GitHub 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark)
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
