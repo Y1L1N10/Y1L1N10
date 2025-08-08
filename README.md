@@ -35,11 +35,15 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark)
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-
+## 📊 My GitHub 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 
 
