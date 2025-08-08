@@ -11,9 +11,9 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
 ## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)</br>
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,vim,vscode,idea,pycharm,postman,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vite,react,nodejs,mysql,aws,git,kubernetes,docker,jenkins,md,vim&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=apple,vscode,idea,pycharm,postman,powershell&theme=light)](https://skillicons.dev)
 
 <div style="display: flex; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
@@ -22,13 +22,9 @@
 </div>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ## 📊 My GitHub 
@@ -39,10 +35,26 @@
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+## 📊 My GitHub 
 
+<div align="center">
+  <img width="880" src="https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20-%20Last%2031%20Days" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img height="180" width="435" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" width="435" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" />
+</div>
+
+<div align="center">
+  <img width="880" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y1L1N10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 
 <!-- 
+语言图标：
+[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)</br>
+
 ## GitHub 统计
 ![Yilin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=radical)‘’‘
 这是一条注释，不会在渲染后显示
