@@ -37,12 +37,17 @@
 </div>
 
 
-<!-- 生成贪吃蛇动画 -->
-![](https://raw.githubusercontent.com/Y1L1N10/Y1L1N10/output/github-contribution-grid-snake.svg)
 
-<!-- 暗色主题 -->
-![](https://raw.githubusercontent.com/Y1L1N10/Y1L1N10/output/github-contribution-grid-snake-dark.svg)
-
+<!-- 基础勋章 
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)](https://github.com/OWNER/REPO/stargazers)
+[![Forks](https://img.shields.io/github/forks/OWNER/REPO?style=social)](https://github.com/OWNER/REPO/network/members)
+![Release](https://img.shields.io/github/v/release/OWNER/REPO?display_name=tag)
+![License](https://img.shields.io/github/license/OWNER/REPO)
+![Build](https://img.shields.io/github/actions/workflow/status/OWNER/REPO/ci.yml?branch=main&label=build)
+-->
 <!-- 主题：github-compact 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Y1L1N10&theme=github-compact)
 
