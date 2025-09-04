@@ -30,7 +30,6 @@
 
 <div align="center">
   <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Y1L1N10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Y1L1N10&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" />
 </div>
 
 
