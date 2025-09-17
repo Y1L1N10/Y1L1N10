@@ -58,6 +58,8 @@
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=puppeteer&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=flat&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white)
+![XMind](https://img.shields.io/badge/XMind-%23C83A2A.svg?style=flat&logo=xmind&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
 ### 💻 终端与命令行工具 · Terminal & CLI Tools
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white)
@@ -88,11 +90,16 @@
 
 ### 📝 编辑器与工具 · Editors & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=githubcopilot&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=%2321D789)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+### 🤖 AI 开发工具 · AI Development Tools
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23FA5F2E.svg?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-%234285F4.svg?style=flat&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=githubcopilot&logoColor=white)
 
 <!-- ### ✒️语言语法
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,vite,react,nodejs,mysql,aws,git,kubernetes,docker,jenkins,md,vim&theme=light)](https://skillicons.dev)
