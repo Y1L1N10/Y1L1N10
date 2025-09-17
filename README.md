@@ -21,10 +21,8 @@
 
 ### 🔨 构建与工程化 · Build & Tooling
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Rollup](https://img.shields.io/badge/Rollup-%23EC4A3F.svg?style=flat&logo=rollup.js&logoColor=white)
-
 ![ESBuild](https://img.shields.io/badge/ESBuild-%23FFCF00.svg?style=flat&logo=esbuild&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
