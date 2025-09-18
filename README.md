@@ -16,7 +16,6 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-[YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
 
 
 ### 🔨 构建与工程化 · Build & Tooling
