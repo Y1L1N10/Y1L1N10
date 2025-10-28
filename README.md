@@ -3,7 +3,7 @@
 - 📍 Shenzhen,GD
 - 🤖 Coding with ai
 - 🔭 I’m currently working on Xmind <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/0ff2367e-5065-4972-b631-2d212b89faf9" /> <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/abe3ce4f-3c8c-47c5-bb4c-847abe61ef7e" />
-- 📫 How to reach me: yyilin000@gmail.com
+- 📫 How to reach me: yyilin000@gmail.com 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
