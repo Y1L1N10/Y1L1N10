@@ -1,6 +1,6 @@
 # 👋 ✨ Hi, I'm Yilin! ![Profile Views](https://komarev.com/ghpvc/?username=Y1L1N10&color=blue)
 - 🏷️ All-do-Engineer   ~~Full-Stack Engineer~~
-- 📍 Shenzhen,GD
+- 📍 Shenzhen,Guangzhou
 - 🤖 Coding with ai
 - 📫 How to reach me: yyilin000@gmail.com 
 <!-- - 👯 I’m looking to collaborate on ... -->
