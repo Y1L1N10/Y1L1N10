@@ -1,8 +1,8 @@
-# 👋 ✨ Hi, I'm Yilin! ![Profile Views](https://komarev.com/ghpvc/?username=Y1L1N10&color=blue)
+# 👋 ✨ Hi, I'm Yilin! [![Certified Thinker](https://meatproxy.me/badge/c/ht5mw.svg)](https://meatproxy.me/zh-cn/c/ht5mw)
 - 🏷️ All-do-Engineer   ~~Full-Stack Engineer~~
 - 📍 Shenzhen,Guangzhou
 - 🤖 Coding with ai
-- 📫 How to reach me: yyilin000@gmail.com 
+- 📫 How to reach me: yyilin000@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
@@ -200,4 +200,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 这是一条注释，不会在渲染后显示
+
+![Profile Views](https://komarev.com/ghpvc/?username=Y1L1N10&color=blue) 
  -->
